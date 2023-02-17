@@ -13,6 +13,8 @@ screenshots/**
 themes/**
 backups/**
 test/**
+ldlib/**
+rhino.local.properties
 config.json
 hotbar.nbt
 knownkeys.txt
